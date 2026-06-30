@@ -18,7 +18,7 @@ Built With
 - Rating section
 - Flexbox layout
 
-What I Learned
+### What I Learned
 
 While making this project, I learned:
 
