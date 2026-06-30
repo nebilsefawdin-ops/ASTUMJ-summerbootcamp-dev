@@ -1,4 +1,4 @@
-#Social Proof Section
+# Social Proof Section
 
 About
 
@@ -11,7 +11,7 @@ Built With
 - HTML
 - CSS
 
-##Features
+## Features
 
 - Responsive design
 - Three testimonial cards
@@ -41,7 +41,7 @@ project/
     ├── user2.jpg
     └── user3.jpg
 
-###How to Run
+### How to Run
 
 1. Download the project.
 2. Open the project folder.
