@@ -1,0 +1,69 @@
+.app {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.btn-container {
+  margin: 10px;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 8px;
+  cursor: pointer;
+  border: none;
+}
+
+.selected {
+  border: 2px solid rgb(55, 55, 55);
+}
+
+.preview-box {
+  width: 180px;
+  height: 180px;
+  margin: 20px auto;
+  border: none;
+}
+.reset-btn {
+  background-color: #070100;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+.reset-btn:hover {
+  background-color: #1a1919;
+}
+span {
+  font-size: 16px;
+  color: rgb(7, 80, 80);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.preview-box {
+  width: 200px;
+  height: 200px;
+  border: 1px solid rgb(28, 28, 28);
+  border-radius: 20px;
+}
+.preview-box h4 {
+  color: rgb(46, 46, 46);
+}
+.color-box {
+  width: 200px;
+  height: 200px;
+  border-radius: 20px;
+}
+p {
+  color: rgb(68, 66, 66);
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 20px;
+}
+
+.icon-dis {
+  font-size: 30px;
+  margin-top: 20px;
+}
