@@ -2,6 +2,7 @@ import { useState } from "react";
 import ColorButton from "./component/colorButton";
 import ColorPreview from "./component/colorPreviewc";
 import { FaPalette } from "react-icons/fa";
+import { VscDebugRestart } from "react-icons/vsc";
 
 function App() {
   const colors = ["Red", "Blue", "Green", "Yellow", "Purple"];
@@ -40,7 +41,8 @@ function App() {
         <ColorPreview color={selectedColor} />
       )}
       <button className="reset-btn" onClick={ResetBtn}>
-        ♲︎︎︎ Reset
+        <VscDebugRestart />
+        Reset
       </button>
     </div>
   );
